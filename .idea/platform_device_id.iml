@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_web/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_web/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_web/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_web/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_macos/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_macos/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_macos/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/platform_device_id_platform_interface/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
